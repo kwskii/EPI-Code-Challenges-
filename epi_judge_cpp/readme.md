@@ -5,4 +5,4 @@
 ### Count Bits
 
 O(n) Solution :
-![O(n) Solution](https://i.imgur.com/T2DvEfp.gifv)
+![O(n) Solution](https://i.imgur.com/T2DvEfp.gif)
