@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Dev\EPI-Code-Challenges-\epi_judge_cpp\minimum_waiting_time.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Dev\EPI-Code-Challenges-\epi_judge_cpp\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{50D04C22-4D34-398F-8B56-E41E55F8E91D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

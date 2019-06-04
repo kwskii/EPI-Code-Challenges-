@@ -3,7 +3,7 @@
 using std::vector;
 vector<double> GenerateFirstKABSqrt2(int k) {
   // TODO - you fill in here.
-  return {};
+  return {0};
 }
 
 int main(int argc, char* argv[]) {
